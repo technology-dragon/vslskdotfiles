@@ -15,7 +15,7 @@ Shell: ZSH (Oh My ZSH )
 #### https://ohmyz.sh/
 #### https://github.com/ohmyzsh/ohmyzsh/
 -------------------------------------------
-WM: Hyprland
+WM: **Hyprland**
 #### https://github.com/hyprwm/Hyprland /
 #### https://hypr.land/
 -------------------------------------------
