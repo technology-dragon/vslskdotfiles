@@ -10,6 +10,7 @@ Hi everyone, here are my dotfiles
 ----------------------------------
 OS: Arch Linux 6.17.5-arch1-1
 
+https://github.com/archlinux
 ---------------------------------
 Shell: ZSH (Oh My ZSH )
 
@@ -18,7 +19,7 @@ https://github.com/ohmyzsh/ohmyzsh/
 ----------------------------------
 WM: Hyprland
 
-https://github.com/hyprwm/Hyprland
+https://github.com/hyprwm/Hyprland /
 https://hypr.land/
 ---------------------------------
 Theme: Catppuccin (Macchiato)
