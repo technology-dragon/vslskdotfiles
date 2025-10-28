@@ -3,6 +3,7 @@
     "modules-left": ["hyprland/workspaces"],
     "modules-center": [ "clock"],
     "modules-right": ["tray","cpu","memory","temperature","pulseaudio", "network","battery"],
+    
     "hyprland/workspaces": {
         "format": "{icon}",
         "on-click": "activate",
