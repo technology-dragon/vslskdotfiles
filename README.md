@@ -2,6 +2,10 @@
 
 
 <img width="1920" height="1081" alt="image" src="https://github.com/user-attachments/assets/a61928a6-79cc-4963-82a6-130cf587dd75" />
+<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/8955f1fc-edbd-48ae-8153-21659475a65c" />
+<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/2f30191d-521e-4ffb-869c-5b8502b41322" />
+
+
 
 
 -------------------------------------------
@@ -34,9 +38,11 @@ Theme:
 **Catppuccin (Macchiato)**
 #### https://catppuccin.com/
 #### https://github.com/catppuccin
+GTK:
 **adw-gtk3** and **adw-gtk3 catppuccin theme**
 #### https://github.com/lassekongo83/adw-gtk3
 #### https://github.com/claymorwan/catppuccin
+Folders:
 **Papirus-folders** and **catppuccin folders icon**
 #### https://github.com/PapirusDevelopmentTeam/papirus-folders
 #### https://github.com/catppuccin/papirus-folders
