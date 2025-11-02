@@ -16,9 +16,8 @@ WM: **Hyprland**
 #### https://github.com/hyprwm/Hyprland /
 #### https://hypr.land/
 -------------------------------------------
-Bar: **Waybar** and **EWW (work)** 
+Bar: **Waybar**
 #### https://github.com/Alexays/Waybar
-#### https://github.com/elkowar/eww
 -------------------------------------------
 Launcher: **Wofi**
 #### https://github.com/SimplyCEO/wofi
