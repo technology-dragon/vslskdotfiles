@@ -9,3 +9,5 @@
 # Личные токены (если вдруг попадут)
 *.token
 secrets
+
+vim/.netrwhist

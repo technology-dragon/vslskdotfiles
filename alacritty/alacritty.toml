@@ -1,5 +1,5 @@
 [general]
-import = ["~/.config/alacritty/themes/catppuccin.toml"]
+import = ["~/.config/alacritty/themes/catppuccin-macchiato.toml"]
 
 [window]
 decorations = "none"
