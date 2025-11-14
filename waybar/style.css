@@ -1,6 +1,6 @@
 * {
-    font-family: "JetBrainsMono Nerd Font", "Symbols Nerd Font";
-    font-size: 12px;
+    font-family: "JetBrainsMono Nerd Font", sans-serif, "Symbols Nerd Font";
+    font-size: 12.5px;
     border: none;
     padding: 0;
     margin: 0;
@@ -19,11 +19,12 @@
 #mode,
 #idle_inhibitor,
 #cpu {
-  padding: 3px 2px;
-  margin: 2px 3px;
+  padding: 3px 3px;
+  margin: 3px 3px;  
   color: #b7bdf8;
 }
 #battery {
+    padding: 0 3px;	
     color: #b7bdf8;
 }
 
@@ -40,7 +41,7 @@
 }
 
 #workspaces button {
-    padding: 0 5px;
+    padding: 0 3px;
     color: #494d64;
     border-bottom: 2px solid transparent;
 }
