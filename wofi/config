@@ -1,12 +1,17 @@
-# Wofi — конфиг
+# wofi config — vslsk edition
+location = center
+show = drun
+allow_images = true
+allow_markup = true
+show_icons = true
+hide_search = false
+close_on_focus_loss = false
 
-width=17%
-height=17%
-lines=1
-prompt=Launch
-insensitive=false
-allow-images=true
-show-icons=true
-font="JetBrainsMono Nerd Font 13"
-cursor-theme=Catppuccin-Mocha-Light
-cursor-size=24
+colums=3
+
+# Размеры — под 3 колонки комфортно
+width = 840
+height = 620
+
+# Шрифт — строго твой выбор
+font = "JetBrainsMono Nerd Font 14"
