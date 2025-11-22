@@ -36,7 +36,7 @@ File manager: **Thunar** and **Yazi**
 #### https://github.com/xfce-mirror/thunar
 #### https://github.com/sxyazi/yazi
 -------------------------------------------
-Wallpaper:
+Wallpaper: **SWWW**
 #### https://github.com/LGFae/swww
 Theme: 
 **Catppuccin (Macchiato)**
