@@ -1,0 +1,5 @@
+[General]
+theme=catppuccin-macchiato-blue
+
+[Applications]
+catppuccin-macchiato-peach=vlc
